@@ -61,14 +61,30 @@
 // -3 -> нет
 // 7 -> нет
 
+// Console.WriteLine("Введите число:");
+
+//  int number =Convert.ToInt32(Console.ReadLine());
+//  if (number % 2 == 0)
+//  {
+//     Console.WriteLine("да");
+//  }
+//  else 
+//  {
+//     Console.WriteLine("нет");
+//  }
+
+// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 
+
 Console.WriteLine("Введите число:");
 
- int number =Convert.ToInt32(Console.ReadLine());
- if (number % 2 == 0)
- {
-    Console.WriteLine("да");
- }
- else 
- {
-    Console.WriteLine("нет");
- }
+int number =Convert.ToInt32(Console.ReadLine());
+number = number -1;
+while ( number > 0 )
+{
+if (number % 2 ==0)
+Console.Write (number);
+number = number-1;
+}
