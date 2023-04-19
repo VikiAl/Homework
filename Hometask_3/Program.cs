@@ -59,12 +59,11 @@
 
 Console.WriteLine("Введите число :");
 int num  =Convert.ToInt32(Console.ReadLine());
-double sum=0;
-for (int temp =0;temp <= num; temp++)
-{
-    double prod = Math.Pow(temp,3);
-    sum = sum + prod;
-   }
 
-Console.WriteLine("Сумма кубов равна: " +sum);
+for (int temp =1;temp <= num; temp++)
+{
+        Console.WriteLine(Math.Pow(temp,3));
+}
+
+
 
