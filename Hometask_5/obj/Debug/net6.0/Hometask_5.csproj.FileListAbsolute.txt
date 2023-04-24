@@ -1,0 +1,15 @@
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\bin\Debug\net6.0\Hometask_5.exe
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\bin\Debug\net6.0\Hometask_5.deps.json
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\bin\Debug\net6.0\Hometask_5.runtimeconfig.json
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\bin\Debug\net6.0\Hometask_5.dll
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\bin\Debug\net6.0\Hometask_5.pdb
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.csproj.AssemblyReference.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.AssemblyInfoInputs.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.AssemblyInfo.cs
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.csproj.CoreCompileInputs.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.dll
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\refint\Hometask_5.dll
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.pdb
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\Hometask_5.genruntimeconfig.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Hometask_5\obj\Debug\net6.0\ref\Hometask_5.dll
