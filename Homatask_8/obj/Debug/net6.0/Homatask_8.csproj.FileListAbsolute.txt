@@ -1,0 +1,15 @@
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.csproj.AssemblyReference.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.AssemblyInfoInputs.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.AssemblyInfo.cs
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.csproj.CoreCompileInputs.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\bin\Debug\net6.0\Homatask_8.exe
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\bin\Debug\net6.0\Homatask_8.deps.json
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\bin\Debug\net6.0\Homatask_8.runtimeconfig.json
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\bin\Debug\net6.0\Homatask_8.dll
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\bin\Debug\net6.0\Homatask_8.pdb
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.dll
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\refint\Homatask_8.dll
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.pdb
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\Homatask_8.genruntimeconfig.cache
+C:\Users\Biostar\Desktop\курс\C#\Homework\Homatask_8\obj\Debug\net6.0\ref\Homatask_8.dll
